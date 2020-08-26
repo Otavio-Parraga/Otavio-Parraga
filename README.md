@@ -21,8 +21,6 @@
 ### Parraga's Spotify Playing 🎧
 [<img src="https://spotify-now-playing-35techru3.vercel.app/api/spotify-playing" alt="Parraga Spotify Playing" width="350" />](https://open.spotify.com/user/parragueto-br)
 
-<br>
-
 ### My Github Stats
 [<img src="https://github-readme-stats.vercel.app/api?username=otavio-parraga&show_icons=true&theme=bear" alt="Parraga Stats" width="420" /> ](https://github.com/Otavio-Parraga)
 
