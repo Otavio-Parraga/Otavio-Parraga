@@ -1,7 +1,7 @@
 ## Hy there, I'm Otávio Parraga
 - 🔭 I’m currently working on Ubots, as Data Scientist
 - 🌱 I’m currently learning about NLP, Deep Learning and Philosophy
-- 🎓 2020 Goals: Graduate on Informational Systems at PUCRS!
+- 🎓 2020 Goals: Graduate on Information Systems at PUCRS!
 - ⚡ Fun fact: Guitarrist, Drummer, Bass-player and sometimes Philosopher
 
 ### Technologies known
