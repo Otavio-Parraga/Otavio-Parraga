@@ -22,12 +22,10 @@
 [<img src="https://spotify-now-playing-35techru3.vercel.app/api/spotify-playing" alt="Parraga Spotify Playing" width="350" />](https://open.spotify.com/user/parragueto-br)
 
 <br>
-<br>
 
 ### My Github Stats
 [<img src="https://github-readme-stats.vercel.app/api?username=otavio-parraga&show_icons=true&theme=bear" alt="Parraga Stats" width="420" /> ](https://github.com/Otavio-Parraga)
 
-<br>
 <br>
 
 #### More about me in
@@ -38,8 +36,11 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Otavio-Parraga?tab=repositories)
 
 
+<br>
+<br>
 
 
+[Inspired By: CodeStack](https://github.com/codeSTACKr/codeSTACKr)
 
 
 
