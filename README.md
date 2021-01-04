@@ -1,7 +1,6 @@
 ## Hy there, I'm Otávio Parraga
 - 🔭 I’m currently researching about Bias in Deep Learning
-- 🌱 I’m currently learning about NLP, Deep Learning and Philosophy
-- 🎓 2020 Goals: Graduate on Information Systems at PUCRS!
+- 🌱 I’m currently learning about NLP, Deep Learning and Philosophy 
 - ⚡ Fun fact: Guitarrist, Drummer, Bass-player and sometimes Philosopher
 
 ### Technologies known
