@@ -1,6 +1,6 @@
 ## Hy there, I'm Otávio Parraga
-- 🔭 I’m currently researching about Bias in Deep Learning
-- 🌱 I’m currently learning about NLP, Deep Learning and Philosophy 
+- 🔭 I’m currently researching about Bias in Deep Learning and Deep Learning for Big Code (source code related tasks)
+- 🌱 I’m currently learning about NLP, Deep Learning, Philosophy and Music 
 - ⚡ Fun fact: Guitarrist, Drummer, Bass-player and sometimes Philosopher
 
 ### Technologies known
